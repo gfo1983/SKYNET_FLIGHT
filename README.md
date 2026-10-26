@@ -1,6 +1,4 @@
-# SKYNET_FLY — релізи SkynetFly (програма пілота для Windows)
-
-Тут лежать **лише готові релізи** SkynetFly. Вихідного коду тут немає.
+# SKYNET_FLY — релізи SkynetFly (програма пілота для Windows для наземної станції SKYNET від DROZD TEAM)
 
 Кожен реліз (`Releases`, тег `vX.Y.Z`) містить:
 
